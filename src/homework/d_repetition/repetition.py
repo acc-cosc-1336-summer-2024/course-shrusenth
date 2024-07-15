@@ -1,5 +1,4 @@
 
-
 def get_factorial(num):
     if num < 0:
         return "Invalid"
